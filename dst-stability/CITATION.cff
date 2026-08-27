@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "DST — Developmental Stability Theory of Predictive Hierarchies (simulation code)"
+type: software
+# NOTE: fill in author details AFTER anonymised peer review; leaving them
+# out keeps an anonymised deposit of this repository review-safe.
+authors:
+  - name: "[Anonymised for review]"
+version: 1.0.0
+date-released: 2026-08-27
+preferred-citation:
+  type: article
+  title: "A Developmental Stability Theory of Predictive Hierarchies: Why Some Perceptual Architectures Remain Stable Under Perturbation"
+  journal: "Computational Psychiatry"
+  year: 2026
+  authors:
+    - name: "[Anonymised for review]"
